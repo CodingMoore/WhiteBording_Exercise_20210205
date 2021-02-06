@@ -1,7 +1,9 @@
-Whiteboarding assignment on 2021, 02, 05
+__Whiteboarding assignment on 2021, 02, 05__
 
-I have a type on line 16 where I did not close the parens for the .filter() method.
+I have a typo on line 16 where I did not close the parens for the .filter() method.
+______________________________________________________
 
+__Prompt__
 
 Question #5: Array Sorting
 Write an algorithm that sorts an array without using the sort() method. There are many different sorting algorithms - take the time to read about the following:
